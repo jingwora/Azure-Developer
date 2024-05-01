@@ -12,6 +12,5 @@ Collection of Azure web app tutorial and projects.
 - 📄 [Deploy a Python (Django or Flask) web app with PostgreSQL in Azure](https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app?tabs=flask%2Cwindows&pivots=azure-portal)
 - 📄 [Quickstart: Create a private endpoint by using the Azure portal](https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal?tabs=dynamic-ip)
 
-
-
 ## 📕 Projects
+- 📄 [Azure-Samples](https://github.com/Azure-Samples)
