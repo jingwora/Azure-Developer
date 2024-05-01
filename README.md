@@ -14,3 +14,6 @@ Collection of Azure web app tutorial and projects.
 
 ## 📕 Projects
 - 📄 [Azure-Samples](https://github.com/Azure-Samples)
+- 📄 [msdocs-python-flask-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart?tab=readme-ov-file#deploy-a-python-flask-web-app-to-azure-app-service---sample-application)
+
+
