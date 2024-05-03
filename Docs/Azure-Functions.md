@@ -15,6 +15,10 @@ ___
 
 - 📄 [Quickstart: Create and deploy Azure Functions resources from an ARM template](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager?tabs=azure-cli)
 
+___
+
+- 📄 [Tutorial: Upload and analyze a file with Azure Functions and Blob Storage](https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger?tabs=azure-portal)
+
 
 
 
