@@ -37,6 +37,14 @@ ___
 
 ## 📕 Projects
 - 📄 [Azure-Samples](https://github.com/Azure-Samples)
+
+___
+
+- 📄 [Hello-world] (https://github.com/Azure-Samples/html-docs-hello-world)
+<p align="left"><img src="https://learn.microsoft.com/en-us/azure/app-service/media/quickstart-python/run-app-azure.png"  width="400"></p>
+
+___
+
 - 📄 [msdocs-python-flask-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart?tab=readme-ov-file#deploy-a-python-flask-web-app-to-azure-app-service---sample-application)
 
 
