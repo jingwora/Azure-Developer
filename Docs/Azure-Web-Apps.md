@@ -2,7 +2,7 @@
 Collection of Azure web app tutorial and projects.
 
 ## 📕 Documents
-- 📄 [ms docs](https://learn.microsoft.com/en-us/azure/app-service/)
+- 📄 [Learn docs](https://learn.microsoft.com/en-us/azure/app-service/)
 
 ## 📕 Tutorials
 - 📄 [AZ-204 Lab](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/tree/master)
